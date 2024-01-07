@@ -713,6 +713,3 @@ INSERT INTO financial_metrics_fact VALUES(346,398,2251153,22,0.1506,-11811.0,-0.
 INSERT INTO financial_metrics_fact VALUES(347,399,1776616,84,0.181,-29440.0,-0.0039789);
 INSERT INTO financial_metrics_fact VALUES(348,400,1749686,213,0.155,-5663.0,-0.0100604);
 INSERT INTO financial_metrics_fact VALUES(349,401,22355,104,0.0002,-48248.0,-0.000188679);
-DELETE FROM "sqlite_sequence";
-INSERT INTO "sqlite_sequence" VALUES('financial_metrics_fact',349);
-
