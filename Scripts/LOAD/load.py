@@ -16,6 +16,7 @@ columns_mapping_gn = {
     'Symbol' : 'symbol',
     'country' : 'country'
 }
+
 df_general_information_mapped = df_general_information[list(columns_mapping_gn.keys())].rename(columns=columns_mapping_gn)
 
 # Rename 'marketcap' column to match the expected column name in the database
