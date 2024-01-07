@@ -25,7 +25,7 @@ create_table_dimension = '''
 CREATE TABLE company_dimension (
     company_id INTEGER PRIMARY KEY NOT NULL,
     name VARCHAR(255),
-    symbol CHAR,
+    symbol CHAR(6),
     country VARCHAR(255)
 );
 '''
