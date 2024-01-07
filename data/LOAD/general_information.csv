@@ -1,0 +1,351 @@
+company_id,Name,Symbol,country
+1,Apple,AAPL,United States
+2,Microsoft,MSFT,United States
+3,Alphabet (Google),GOOG,United States
+4,Oracle,ORCL,United States
+5,Adobe,ADBE,United States
+6,Salesforce,CRM,United States
+7,SAP,SAP,Germany
+8,Intuit,INTU,United States
+9,IBM,IBM,United States
+10,ServiceNow,NOW,United States
+11,Schneider Electric,SU.PA,France
+12,Automatic Data Processing,ADP,United States
+13,Palo Alto Networks,PANW,United States
+14,Synopsys,SNPS,United States
+15,Workday,WDAY,United States
+16,Cadence Design Systems,CDNS,United States
+17,Dassault Systèmes,DSY.PA,France
+18,Snowflake,SNOW,United States
+19,Vmware,VMW,United States
+20,CrowdStrike,CRWD,United States
+22,Atlassian,TEAM,Australia
+23,Autodesk,ADSK,United States
+24,Fortinet,FTNT,United States
+25,Palantir,PLTR,United States
+26,Datadog,DDOG,United States
+27,The Trade Desk,TTD,United States
+29,Mobileye,MBLY,Israel
+30,Amadeus IT Group,AMS.MC,Spain
+31,Zscaler,ZS,United States
+32,FICO,FICO,United States
+33,Veeva Systems,VEEV,United States
+34,MongoDB,MDB,United States
+35,Cloudflare,NET,United States
+36,Splunk,SPLK,United States
+37,HubSpot,HUBS,United States
+38,Keysight,KEYS,United States
+39,Ansys,ANSS,United States
+40,Zoom,ZM,United States
+41,PTC,PTC,United States
+43,NetApp,NTAP,United States
+44,Samsara,IOT,United States
+45,Akamai,AKAM,United States
+46,Check Point Software,CHKP,Israel
+47,Tyler Technologies,TYL,United States
+48,FactSet,FDS,United States
+49,Dynatrace,DT,United States
+50,EPAM Systems,EPAM,United States
+52,Bentley Systems,BSY,United States
+53,Leidos,LDOS,United States
+55,Gen Digital,GEN,United States
+56,SS&C Technologies,SSNC,United States
+57,Enphase Energy,ENPH,United States
+58,UiPath,PATH,United States
+59,Manhattan Associates,MANH,United States
+60,NICE,NICE,Israel
+61,Twilio,TWLO,United States
+62,AspenTech,AZPN,United States
+63,AppLovin,APP,United States
+64,Unity Software,U,United States
+65,Zebra Technologies,ZBRA,United States
+66,Okta,OKTA,United States
+67,Trimble,TRMB,United States
+68,ZoomInfo,ZI,United States
+69,Elastic NV,ESTC,United States
+70,Nutanix,NTNX,United States
+71,OpenText,OTEX,Canada
+72,Paycom,PAYC,United States
+74,Ceridian,CDAY,United States
+75,Amdocs,DOX,United States
+76,F5 Networks,FFIV,United States
+77,Oracle Corp Japan,4716.T,Japan
+78,DocuSign,DOCU,United States
+79,"M3, Inc",2413.T,Japan
+80,Nemetschek,NEM.F,Germany
+81,Globant,GLOB,Luxembourg
+82,MicroStrategy,MSTR,United States
+83,Dropbox,DBX,United States
+84,GitLab,GTLB,United States
+85,Yonyou,600588.SS,China
+86,Paylocity,PCTY,United States
+87,monday.com,MNDY,Israel
+88,Procore,PCOR,United States
+89,CyberArk,CYBR,Israel
+90,Toast,TOST,United States
+91,National Instruments,NATI,United States
+92,Informatica,INFA,United States
+94,Trend Micro,4704.T,Japan
+95,SentinelOne,S,United States
+97,Confluent,CFLT,United States
+98,CCC Intelligent Solutions,CCCS,United States
+99,Qualys,QLYS,United States
+100,SPS Commerce,SPSC,United States
+102,Tata Elxsi,TATAELXSI.NS,India
+103,Genpact,G,Bermuda
+104,New Relic,NEWR,United States
+105,Freshworks,FRSH,United States
+106,Smartsheet,SMAR,United States
+107,SCSK Corporation,9719.T,Japan
+108,Five9,FIVN,United States
+109,Altair Engineering,ALTR,United States
+110,DoubleVerify,DV,United States
+112,Braze,BRZE,United States
+113,Clarivate,CLVT,United Kingdom
+114,Clearwater Analytics,CWAN,United States
+115,Workiva,WK,United States
+116,Tenable,TENB,United States
+117,KPIT Technologies,KPITTECH.NS,India
+118,Varonis,VRNS,United States
+119,Blackbaud,BLKB,United States
+120,PowerSchool,PWSC,United States
+121,Pegasystems,PEGA,United States
+122,Vertex,VERX,United States
+124,Alight,ALIT,United States
+125,Asana,ASAN,United States
+126,Coforge,COFORGE.NS,India
+127,Teradata,TDC,United States
+129,Synaptics,SYNA,United States
+131,Aurora Innovation,AUR,United States
+132,HashiCorp,HCP,United States
+133,Endava,DAVA,United Kingdom
+134,Instructure Holdings,INST,United States
+135,Lufax,LU,China
+136,EngageSmart,ESMT,United States
+137,NCR Corporation,NCR,United States
+138,Squarespace,SQSP,United States
+139,Paycor,PYCR,United States
+140,BlackLine,BL,United States
+141,Rapid7,RPD,United States
+142,Box,BOX,United States
+144,C3 AI,AI,United States
+145,Commvault,CVLT,United States
+148,Sprout Social,SPT,United States
+149,Jfrog,FROG,United States
+150,Alteryx,AYX,United States
+151,Sprinklr,CXM,United States
+152,ACI Worldwide,ACIW,United States
+153,SoftwareONE,SWON.SW,Switzerland
+154,IonQ,IONQ,United States
+155,Calix,CALX,United States
+156,Appian,APPN,United States
+157,DigitalOcean,DOCN,United States
+158,Certara,CERT,United States
+159,TietoEVRY,TIETO.HE,Finland
+160,Lightspeed POS,LSPD,Canada
+161,TeamViewer,TMV.DE,Germany
+162,Software AG,SOW.F,Germany
+163,Intapp,INTA,United States
+165,Progress Software,PRGS,United States
+166,Envestnet,ENV,United States
+167,Schrödinger,SDGR,United States
+168,AvidXchange,AVDX,United States
+169,Fastly,FSLY,United States
+170,LiveRamp,RAMP,United States
+171,N-Able,NABL,United States
+172,Jamf,JAMF,United States
+173,Alkami Technology,ALKT,United States
+175,Agilysys,AGYS,United States
+176,Telus International,TIXT,Canada
+177,PagerDuty,PD,United States
+179,SolarWinds,SWI,United States
+180,EverCommerce,EVCM,United States
+181,CompuGroup Medical,COP.DE,Germany
+182,ePlus,PLUS,United States
+183,Atoss,AOF.F,Germany
+184,OVH Groupe,OVH.PA,France
+185,Verint Systems,VRNT,United States
+186,Exclusive Networks,EXN.PA,France
+187,Donnelley Financial Solutions,DFIN,United States
+188,PROS,PRO,United States
+189,MeridianLink,MLNK,United States
+190,Qt Group,QTCOM.HE,Finland
+192,Zeta Global,ZETA,United States
+193,Cellebrite,CLBT,Israel
+194,Semrush,SEMR,United States
+195,Omnicell,OMCL,United States
+196,CSG International,CSGS,United States
+197,NETSCOUT,NTCT,United States
+199,Sabre,SABR,United States
+200,AvePoint,AVPT,United States
+201,Docebo,DCBO,Canada
+202,Sapiens,SPNS,Israel
+203,Amplitude,AMPL,United States
+204,MapmyIndia,MAPMYINDIA.NS,India
+205,Enghouse Systems,ENGH.TO,Canada
+206,tuya,TUYA,China
+207,Compass,COMP,United States
+208,VTEX,VTEX,United Kingdom
+209,Asseco,ACP.WA,Poland
+210,Sterling Check,STER,United States
+211,Nagarro,NA9.DE,Germany
+212,Genius Sports,GENI,United Kingdom
+213,Zuora,ZUO,United States
+214,PDF Solutions,PDFS,United States
+215,E2open,ETWO,United States
+216,PAR Technology,PAR,United States
+217,Truecaller,TRUE-B.ST,Sweden
+218,Diebold Nixdorf,DBD,United States
+220,Nexus AG,NXU.DE,Germany
+221,Phreesia,PHR,United States
+222,Opera,OPRA,Norway
+223,Couchbase,BASE,United States
+225,Mensch und Maschine,MUM.F,Germany
+226,A10 Networks,ATEN,United States
+227,Olo,OLO,United States
+228,Everbridge,EVBG,United States
+229,Pagaya Technologies,PGY,Israel
+230,WalkMe,WKME,Israel
+231,Model N,MODN,United States
+232,Digi International,DGII,United States
+233,Mastek,MASTEK.NS,India
+234,PubMatic,PUBM,United States
+237,Karooooo,KARO,Singapore
+238,3D Systems,DDD,United States
+239,Simulations Plus,SLP,United States
+240,Matterport,MTTR,United States
+242,Riskified,RSKD,Israel
+243,Yext,YEXT,United States
+244,Cerence,CRNC,United States
+245,Applied Blockchain,APLD,United States
+246,Weave Communications,WEAV,United States
+247,Exscientia,EXAI,United Kingdom
+248,Digimarc,DMRC,United States
+249,CI&amp;T,CINT,Brazil
+250,SmartRent,SMRT,United States
+251,Thryv,THRY,United States
+252,i3 Verticals,IIIV,United States
+253,Digital Turbine,APPS,United States
+254,Forge Global,FRGE,United States
+255,GigaCloud Technology,GCT,China
+256,stem,STEM,United States
+257,SoundHound AI,SOUN,United States
+258,Secureworks,SCWX,United States
+259,Nerdy,NRDY,United States
+260,Mitek Systems,MITK,United States
+261,Consensus Cloud Solutions,CCSI,United States
+262,MoneyLion,ML,United States
+264,Nucleus Software Exports,NUCLEUS.NS,India
+265,8x8,EGHT,United States
+266,NextNav,NN,United States
+267,CS Disco,LAW,United States
+268,23andMe,ME,United States
+269,eMudhra,EMUDHRA.NS,India
+270,OneSpan,OSPN,United States
+271,Blend Labs,BLND,United States
+272,Cognyte Software,CGNT,Israel
+273,Similarweb,SMWB,Israel
+274,Materialise NV,MTLS,Belgium
+275,Unisys,UIS,United States
+276,AudioCodes,AUDC,Israel
+277,Cigniti Technologies,CIGNITITEC.NS,India
+279,LiveVox,LVOX,United States
+280,Perfect Corp.,PERF,Taiwan
+281,Rackspace Technology,RXT,United States
+282,American Software,AMSWA,United States
+283,Domo,DOMO,United States
+284,OPTiM,3694.T,Japan
+285,ON24,ONTF,United States
+286,ShotSpotter,SSTI,United States
+287,Spok Holdings,SPOK,United States
+288,Backblaze,BLZE,United States
+289,Tabula Rasa HealthCare,TRHC,United States
+290,Red Violet,RDVT,United States
+291,Rimini Street,RMNI,United States
+292,LivePerson,LPSN,United States
+293,Mondee,MOND,United States
+294,SOPHiA GENETICS,SOPH,Switzerland
+295,Agora.io,API,China
+296,System1,SST,United States
+297,Tucows,TCX,Canada
+299,Kaltura,KLTR,United States
+300,Pexip,PEXIP.OL,Norway
+301,eGain,EGAN,United States
+302,Accelya,ACCELYA.NS,India
+303,Fabasoft,FAA.DE,Austria
+304,Quick Heal,QUICKHEAL.NS,India
+305,TuSimple,TSP,United States
+306,Priority Technology Holdings,PRTH,United States
+307,Troops,TROO,Hong Kong
+308,BrainChip,BRN.AX,Australia
+309,UNITED,2497.T,Japan
+310,Absci,ABSI,United States
+311,Porch Group,PRCH,United States
+312,Expensify,EXFY,United States
+313,Outbrain,OB,United States
+314,Iteris,ITI,United States
+315,Asure Software,ASUR,United States
+316,BlackSky Technology,BKSY,United States
+317,Rekor Systems,REKR,United States
+318,OptimizeRx,OPRX,United States
+319,Park City Group,PCYG,United States
+320,StarTek,SRT,United States
+322,"PLAID,Inc.",4165.T,Japan
+323,Bakkt Holdings,BKKT,United States
+325,Ebix,EBIX,United States
+326,Computer Programs and Systems,CPSI,United States
+327,MiX Telematics,MIXT,United States
+328,Spire Global,SPIR,United States
+329,Latch,LTCH,United States
+330,Upland Software,UPLD,United States
+331,iHuman,IH,China
+332,Allied Tecnologia,ALLD3.SA,Brazil
+334,AdTheorent,ADTH,United States
+336,Xunlei,XNET,China
+338,Dave Inc.,DAVE,United States
+340,3i Infotech,3IINFOLTD.NS,India
+342,Veritone,VERI,United States
+345,ZeroFox,ZFOX,United States
+346,Compugen,CGEN,Israel
+347,Rubicon Technologies,RBT,United States
+350,Bigtincan,BTH.AX,Australia
+351,Semantix,STIX,Brazil
+352,Smith Micro Software,SMSI,United States
+353,Otonomo Technologies,OTMO,Israel
+354,Allot,ALLT,Israel
+356,Synchronoss,SNCR,United States
+358,Gorilla Technology,GRRR,Taiwan
+359,Tose Software,4728.T,Japan
+360,Nippon Ichi Software,3851.T,Japan
+361,Intellicheck,IDN,United States
+364,The Glimpse Group,VRAR,United States
+365,Sphere 3D,ANY,Canada
+366,Exela Technologies,XELA,United States
+368,CISO Global (Cerberus Cyber Sentinel),CISO,United States
+369,Movella,MVLA,United States
+371,Streamline Health Solutions,STRM,United States
+372,Marpai,MRAI,United States
+376,Babylon Holdings,BBLN,United Kingdom
+377,Foresight Autonomous Holdings,FRSX,Israel
+378,Blackboxstocks,BLBX,United States
+379,Phunware,PHUN,United States
+380,CalAmp,CAMP,United States
+381,Trust Stamp,IDAI,United States
+382,Castellum,CTM,United States
+384,WeTrade Group,WETG,China
+385,AgileThought,AGIL,United States
+387,Cyngn,CYN,United States
+388,Inpixon,INPX,United States
+390,Marin Software,MRIN,United States
+391,SeaChange,SEAC,United States
+392,Cemtrex,CETX,United States
+393,Treasure Global,TGL,Malaysia
+394,UpHealth,UPH,United States
+395,Verb Technology,VERB,United States
+396,"Fr8Tech 
+ (Freight Technologies)",FRGT,United States
+397,BIO-key International,BKYI,United States
+398,Oblong,OBLG,United States
+399,G Medical Innovations,GMVD,Israel
+400,Nogin,NOGN,United States
+401,IronNet,IRNT,United States
