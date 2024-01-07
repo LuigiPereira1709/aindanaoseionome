@@ -2,7 +2,7 @@ START TRANSACTION;
 CREATE TABLE company_dimension (
     company_id INTEGER PRIMARY KEY NOT NULL,
     name VARCHAR(255),
-    symbol CHAR,
+    symbol CHAR(6),
     country VARCHAR(255)
 );
 INSERT INTO company_dimension VALUES(1,'Apple','AAPL','United States');
