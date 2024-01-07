@@ -1,4 +1,4 @@
-BEGIN TRANSACTION;
+START TRANSACTION;
 CREATE TABLE company_dimension (
     company_id INTEGER PRIMARY KEY NOT NULL,
     name VARCHAR(255),
@@ -21,7 +21,7 @@ INSERT INTO "company_dimension" VALUES(13,'Palo Alto Networks','PANW',NULL);
 INSERT INTO "company_dimension" VALUES(14,'Synopsys','SNPS',NULL);
 INSERT INTO "company_dimension" VALUES(15,'Workday','WDAY',NULL);
 INSERT INTO "company_dimension" VALUES(16,'Cadence Design Systems','CDNS',NULL);
-INSERT INTO "company_dimension" VALUES(17,'Dassault Systèmes','DSY.PA',NULL);
+INSERT INTO "company_dimension" VALUES(17,'Dassault SystÃ¨mes','DSY.PA',NULL);
 INSERT INTO "company_dimension" VALUES(18,'Snowflake','SNOW',NULL);
 INSERT INTO "company_dimension" VALUES(19,'Vmware','VMW',NULL);
 INSERT INTO "company_dimension" VALUES(20,'CrowdStrike','CRWD',NULL);
@@ -154,7 +154,7 @@ INSERT INTO "company_dimension" VALUES(146,'Software AG','SOW.F',NULL);
 INSERT INTO "company_dimension" VALUES(147,'Intapp','INTA',NULL);
 INSERT INTO "company_dimension" VALUES(148,'Progress Software','PRGS',NULL);
 INSERT INTO "company_dimension" VALUES(149,'Envestnet','ENV',NULL);
-INSERT INTO "company_dimension" VALUES(150,'Schrödinger','SDGR',NULL);
+INSERT INTO "company_dimension" VALUES(150,'SchrÃ¶dinger','SDGR',NULL);
 INSERT INTO "company_dimension" VALUES(151,'AvidXchange','AVDX',NULL);
 INSERT INTO "company_dimension" VALUES(152,'Fastly','FSLY',NULL);
 INSERT INTO "company_dimension" VALUES(153,'LiveRamp','RAMP',NULL);
@@ -348,7 +348,8 @@ INSERT INTO "company_dimension" VALUES(340,'Cemtrex','CETX',NULL);
 INSERT INTO "company_dimension" VALUES(341,'Treasure Global','TGL',NULL);
 INSERT INTO "company_dimension" VALUES(342,'UpHealth','UPH',NULL);
 INSERT INTO "company_dimension" VALUES(343,'Verb Technology','VERB',NULL);
-INSERT INTO "company_dimension" VALUES(344,'Fr8Tech 
+INSERT INTO "company_dimension" VALUES(344,'Fr8Tech 
+
  (Freight Technologies)','FRGT',NULL);
 INSERT INTO "company_dimension" VALUES(345,'BIO-key International','BKYI',NULL);
 INSERT INTO "company_dimension" VALUES(346,'Oblong','OBLG',NULL);
@@ -356,7 +357,7 @@ INSERT INTO "company_dimension" VALUES(347,'G Medical Innovations','GMVD',NULL);
 INSERT INTO "company_dimension" VALUES(348,'Nogin','NOGN',NULL);
 INSERT INTO "company_dimension" VALUES(349,'IronNet','IRNT',NULL);
 CREATE TABLE financial_metrics_fact (
-    fact_id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    fact_id INTEGER PRIMARY KEY AUTO_INCREMENT NOT NULL,
     company_id INTEGER NOT NULL,
     market_cap INTEGER,
     employees_count INTEGER,
@@ -716,4 +717,3 @@ INSERT INTO "financial_metrics_fact" VALUES(348,400,1749686,213,0.155,-5663.0,-0
 INSERT INTO "financial_metrics_fact" VALUES(349,401,22355,104,0.0002,-48248.0,-0.000188679);
 DELETE FROM "sqlite_sequence";
 INSERT INTO "sqlite_sequence" VALUES('financial_metrics_fact',349);
-COMMIT;
