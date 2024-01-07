@@ -11,8 +11,10 @@ df_financial_information = pd.read_csv('data/LOAD/detailed_financial_info.csv')
 
 # Map columns from the general information DataFrame
 columns_mapping_gn = {
-    'Name': 'name',
-    'Symbol': 'symbol',
+    'company_id' : 'company_id',
+    'Name' : 'name',
+    'Symbol' : 'symbol',
+    'country' : 'country'
 }
 df_general_information_mapped = df_general_information[list(columns_mapping_gn.keys())].rename(columns=columns_mapping_gn)
 
